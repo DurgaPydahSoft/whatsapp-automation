@@ -1,0 +1,7 @@
+{
+    "ignore": [
+        "messages.json",
+        ".wwebjs_auth/*",
+        ".wwebjs_cache/*"
+    ]
+}
